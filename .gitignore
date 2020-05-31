@@ -1,0 +1,11 @@
+# compiled source #
+*.pyc
+
+
+# IDE config files #
+.vscode
+.ipynb_checkpoints
+
+
+# audio files #
+*.wav
