@@ -10,7 +10,7 @@ import scipy.io.wavfile as wavfile
 
 
 class AudioData:
-    """Object holding audio dta and its associated samplerate and number of 
+    """Object holding audio data and its associated samplerate and number of 
     channels
     """
     def __init__(self):
